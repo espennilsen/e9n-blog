@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            Hi, My name is Espen Nilsen<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">@e9n.dev</span>
+          <p>Welcome to my little Javascript sandbox. The main purpose of this site will be to teach myself full stack web development. I have over 15 years of experience in the IT industry ranging from sysadmin, consulting and now sales gigs for the last couple of years. This site is running Next.js with Netlify. I love how simple and fast these static site generators are. The reason I went for Next.js is the hybrid approach that I can still do server side rendering when I need to.</p>
           <SocialList />
         </div>
       </div>
